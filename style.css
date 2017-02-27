@@ -6,6 +6,7 @@ body{
   color: limegreen;
 }
 
+
 h2 {
   font-family: Lobster, Monospace;
 }
@@ -22,6 +23,7 @@ ul{
   color: white;
 }
 
+
 p {
   color: white;
   font-size: 16px;
@@ -36,5 +38,5 @@ p {
 }
 
 .smaller-image {
-  width: 100px;
+  width: 110px;
 }
