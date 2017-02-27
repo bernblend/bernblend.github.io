@@ -34,9 +34,9 @@ p {
   border-color: limegreen;
   border-width: 2px;
   border-style: solid;
-  border-radius: 50%;
+  border-radius: 60%;
 }
 
 .smaller-image {
-  width: 110px;
+  width: 120px;
 }
