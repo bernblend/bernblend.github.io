@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+}
+
+.limegreen-text {
+  color: limegreen;
+}
+
+h2 {
+  font-family: Lobster, Monospace;
+}
+
+h3 {
+  font-family: Lobster, Monospace;
+}
+
+h3 {
+  font-family: Lobster, Monospace;
+}
+
+ul{
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+  font-family: Monospace;
+}
+
+.thick-green-border {
+  border-color: limegreen;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+.smaller-image {
+  width: 100px;
+}
