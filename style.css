@@ -8,19 +8,27 @@ body{
 
 h1 {
   font-family: Lobster, Monospace;
+  font-size: 70px;
 }
 
 
 h2 {
   font-family: Lobster, Monospace;
+  font-size: 60px;
+}
+
+h3 {
+  font-family: Lobster, Monospace;
+  font-size: 60px;
 }
 
 h3 {
   font-family: Lobster, Monospace;
 }
 
-h3 {
-  font-family: Lobster, Monospace;
+h4 {
+  font-size: 20px;
+  font-family: Monospace;
 }
 
 ul{
@@ -30,17 +38,17 @@ ul{
 
 p {
   color: white;
-  font-size: 16px;
+  font-size: 25px;
   font-family: Monospace;
 }
 
 .thick-green-border {
   border-color: limegreen;
-  border-width: 0.5px;
+  border-width: 1px;
   border-style: solid;
   border-radius: 60%;
 }
 
 .smaller-image {
-  width: 120px;
+  width: 250px;
 }
