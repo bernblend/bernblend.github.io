@@ -12,7 +12,7 @@ h1 {
   font-family: Fredericka the Great, cursive;
   font-size: 143px;
   margin-top: 70px;
-  margin-bottom: -60px;
+  margin-bottom: 20px;
 }
 
 
@@ -110,5 +110,5 @@ a:active {
 }
 
 .smaller-image {
-  height: 350px;
+  height: 400px;
 }
