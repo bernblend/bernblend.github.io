@@ -16,12 +16,12 @@ h1 {
 
 h2 {
   font-family: Fredericka the Great, cursive;
-  font-size: 90px;
+  font-size: 80px;
 }
 
 
 h3 {
-  font-size: 40px;
+  font-size: 45px;
   font-family: Fredericka the Great, cursive;
 }
 
@@ -38,7 +38,7 @@ h5 {
 
 h6 {
   color: white;
-  font-size: 20px;
+  font-size: 30px;
   font-family: Ruluko, sans-serif;
 }
 
@@ -51,7 +51,7 @@ ul{
 
 p {
   color: white;
-  font-size: 65px;
+  font-size: 45px;
   font-family: Ruluko, sans-serif;
 }
 
