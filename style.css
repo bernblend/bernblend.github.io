@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-family: Fredericka the Great, cursive;
-  font-size: 80px;
+  font-size: 90px;
 }
 
 
@@ -51,7 +51,7 @@ ul{
 
 p {
   color: white;
-  font-size: 45px;
+  font-size: 65px;
   font-family: Ruluko, sans-serif;
 }
 
@@ -95,7 +95,7 @@ a:active {
 
 
 
-.p-other-color {
+.other-p {
   color: white;
 }
 
