@@ -1,2 +1,2 @@
 # bernblend.github.io
-RevitaLiz.life
+revitaliz.life
