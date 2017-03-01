@@ -2,34 +2,47 @@ body{
   background-color: black;
 }
 
+
 .limegreen-text {
   color: limegreen;
 }
 
+
 h1 {
-  font-family: Lobster, Monospace;
-  font-size: 90px;
+  font-family: Fredericka the Great, cursive;
+  font-size: 143px;
 }
 
 
 h2 {
-  font-family: Lobster, Monospace;
+  font-family: Fredericka the Great, cursive;
   font-size: 80px;
 }
 
-h3 {
-  font-family: Lobster, Monospace;
-  font-size: 80px;
-}
 
 h3 {
-  font-family: Lobster, Monospace;
+  font-size: 40px;
+  font-family: Fredericka the Great, cursive;
 }
 
 h4 {
-  font-size: 40px;
-  font-family: Monospace;
+  color: white;
+  font-size: 25px;
+  font-family: Ruluko, sans-serif;
 }
+
+
+h5 {
+  font-size: 60px;
+}
+
+h6 {
+  color: white;
+  font-size: 15px;
+  font-family: Ruluko, sans-serif;
+}
+
+
 
 ul{
   color: white;
@@ -39,16 +52,61 @@ ul{
 p {
   color: white;
   font-size: 45px;
-  font-family: Monospace;
+  font-family: Ruluko, sans-serif;
 }
 
+
+i {
+  color: white;
+}
+
+.other-i {
+  color: limegreen;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+
+
+
+
+
+
+.p-other-color {
+  color: white;
+}
+
+
 .thick-green-border {
-  border-color: limegreen;
-  border-width: 1px;
+  border-color: white;
+  border-width: 1.5px;
   border-style: solid;
-  border-radius: 60%;
+  border-radius: 30%;
 }
 
 .smaller-image {
-  width: 300px;
+  height: 300px;
 }
