@@ -7,6 +7,30 @@ body{
   color: limegreen;
 }
 
+.yellow-text {
+  color: #f9f906;
+}
+
+.red-text {
+  color: #f91f1f;
+}
+
+.orange-text {
+  color: #f98006;
+}
+
+.gray-text {
+  color: #b3cccc;
+}
+
+.pink-text {
+  color: #ff00bf;
+}
+
+.blue-text {
+  color: #0099ff;
+}
+
 
 h1 {
   font-family: Fredericka the Great, cursive;
@@ -60,9 +84,6 @@ i {
   color: white;
 }
 
-.other-i {
-  color: limegreen;
-}
 
 a:link {
     text-decoration: none;
