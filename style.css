@@ -7,6 +7,7 @@ body{
   color: limegreen;
 }
 
+
 .yellow-text {
   color: #f9f906;
 }
@@ -34,35 +35,37 @@ body{
 
 h1 {
   font-family: Fredericka the Great, cursive;
-  font-size: 143px;
+  font-size: 153px;
 }
 
 
 h2 {
   font-family: Fredericka the Great, cursive;
-  font-size: 80px;
+  font-size: 90px;
 }
 
 
 h3 {
-  font-size: 55px;
+  font-size: 65px;
   font-family: Fredericka the Great, cursive;
 }
 
+
 h4 {
   color: white;
-  font-size: 25px;
+  font-size: 35px;
   font-family: Ruluko, sans-serif;
 }
 
 
 h5 {
-  font-size: 60px;
+  font-size: 70px;
 }
+
 
 h6 {
   color: white;
-  font-size: 30px;
+  font-size: 40px;
   font-family: Ruluko, sans-serif;
 }
 
@@ -73,10 +76,20 @@ ul{
 }
 
 
-p {
+
+.smaller-p {
   color: white;
   font-size: 45px;
-  font-family: Ruluko, sans-serif;
+/*  font-family: Ruluko, sans-serif; */
+  font-family: Fredericka the Great, cursive;
+}
+
+
+p {
+  color: white;
+  font-size: 55px;
+/*  font-family: Ruluko, sans-serif; */
+  font-family: Fredericka the Great, cursive;
 }
 
 
