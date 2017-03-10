@@ -77,12 +77,22 @@ ul{
 
 
 
-.smaller-p {
+.medium-p {
   color: white;
-  font-size: 45px;
+  font-size: 60px;
 /*  font-family: Ruluko, sans-serif; */
   font-family: Fredericka the Great, cursive;
 }
+
+
+.small-p {
+  color: white;
+  font-size: 35px;
+/*  font-family: Ruluko, sans-serif; */
+  font-family: Fredericka the Great, cursive;
+}
+
+
 
 
 p {
@@ -145,14 +155,32 @@ a:active {
 
 
 .image-main {
-  width: 550px;
+  height: 500px;
+}
+
+
+
+.gif-ultrasound {
+  width: 450px;
+}
+
+
+.gif-medical {
+  height: 350px;
+}
+
+
+
+
+.gif-blog {
+  width: 450px;
 }
 
 
 .gif-recipes {
-  width: 500px;
+  width: 450px;
 }
 
 .gif-juice {
-  height: 500px;
+  height: 450px;
 }
