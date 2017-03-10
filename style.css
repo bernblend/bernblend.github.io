@@ -76,6 +76,14 @@ ul{
 }
 
 
+.big-p {
+  color: white;
+  font-size: 60px;
+/*  font-family: Ruluko, sans-serif; */
+  font-family: Fredericka the Great, cursive;
+}
+
+
 
 .medium-p {
   color: white;
@@ -161,26 +169,26 @@ a:active {
 
 
 .gif-ultrasound {
-  width: 450px;
+  width: 400px;
 }
 
 
 .gif-medical {
-  height: 150px;
+  width: 400px;
 }
 
 
 
 
 .gif-blog {
-  width: 350px;
+  width: 400px;
 }
 
 
 .gif-recipes {
-  width: 450px;
+  width: 400px;
 }
 
 .gif-juice {
-  height: 450px;
+  height: 400px;
 }
