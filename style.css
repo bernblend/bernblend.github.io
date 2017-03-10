@@ -141,7 +141,12 @@ a:active {
   border-radius: 30%;
 }
 
-.smaller-image {
-  height: 500px;
+
+
+.gif-recipes {
+  width: 500px;
+}
+
+.gif-juice {
   height: 500px;
 }
