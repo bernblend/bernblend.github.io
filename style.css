@@ -79,7 +79,7 @@ ul{
 
 .medium-p {
   color: white;
-  font-size: 60px;
+  font-size: 50px;
 /*  font-family: Ruluko, sans-serif; */
   font-family: Fredericka the Great, cursive;
 }
@@ -166,14 +166,14 @@ a:active {
 
 
 .gif-medical {
-  height: 350px;
+  height: 150px;
 }
 
 
 
 
 .gif-blog {
-  width: 450px;
+  width: 350px;
 }
 
 
